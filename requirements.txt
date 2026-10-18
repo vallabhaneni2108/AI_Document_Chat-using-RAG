@@ -17,6 +17,7 @@ chromadb
 
 # Embedding Models
 
+langchain-huggingface
 sentence-transformers
 
 # Document Loaders dependencies
